@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.device=beryllium
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=POCO F1
+ro.product.bootimage.name=beryllium
+ro.bootimage.build.date=Mon Sep 19 09:49:40 UTC 2022
+ro.bootimage.build.date.utc=1663580980
+ro.bootimage.build.fingerprint=Xiaomi/cherish_beryllium/beryllium:13/TP1A.220905.004/ayush09190949:user/release-keys
+ro.bootimage.build.id=TP1A.220905.004
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=1663581157
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
+
